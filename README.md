@@ -21,11 +21,17 @@ Consultar la base de datos y validar que los datos se hayan cargado correctament
 ------------------
 # Resolución
 
+
 Se presenta en el repositorio :
+
 olympics.db < bbdd sqlite >
+
 medals_local.csv < backup de la base csv en caso de que el link no funcione>
+
 Practico.ipynb < notebook con los ejercicios ejecutados >
+
 Teorico.ipynb < notebook con información de utilidad >
+
 
 
 Desde el notebook Practico.ipynb se pueden ejecutar todas las sentencias para simular las pruebas realizadas.
